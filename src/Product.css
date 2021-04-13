@@ -39,3 +39,7 @@
 .product__rating {
   display: flex;
 }
+
+.product:hover {
+  box-shadow: 3px 3px 3px 3px rgb(160, 158, 158);
+}
